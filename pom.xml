@@ -5,7 +5,7 @@
     <artifactId>produtos</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>produtos nome bonito</name>
+    <name>alura-maven-produto</name>
     <url>http://www.assertivasolucoes.com.br</url>
     <dependencies>
         <dependency>
@@ -28,4 +28,5 @@
         </dependency>
 
     </dependencies>
+    <description>alura-maven-produto</description>
 </project>
